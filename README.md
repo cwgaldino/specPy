@@ -1,7 +1,7 @@
 The **specPy** python package contains different modules providing functionality related 
 with the **spec** software (by Certified Scientific Software).
 
-**This is forked from: https://github.com/certified-spec/specPy.** The **filespec** module was modified to work on pyhthon 3.7. This version might also work with python 2.7, but it was not fully tested!
+**This was forked from: https://github.com/certified-spec/specPy.** The **filespec** module was modified to work on pyhthon 3.7. This version might also work with python 2.7, but it was not fully tested! See examples folder to see a simple example on how to use **filespec** module. Also, an specfile for testing may be found in fixtures folder.
 
 **spec** is an application by *Certified Scientific Software* 
 (http://www.certif.com/) specialized in instrument control and data 
